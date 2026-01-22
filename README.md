@@ -29,3 +29,33 @@ danceability, energy, loudness, acousticness, instrumentalness, liveness, valenc
 
 ---
 ## 📊 Key Analysis & Visualizations
+The notebook covers the following specific analytical tasks:
+
+### Temporal Trends:
+
+Line charts showing the number of songs released per year, broken down by playlist genre.
+
+Analysis of the evolution of average song length (duration) throughout the years.
+
+### Genre Analysis:
+
+Evolution of playlist genre percentages over time relative to the total.
+
+Deep dive into Rock music: Visualizing percentages of different subgenres across specific eras (<1970, 1970s, 1980s, 1990s, 2000s, >2010).
+
+Comparing the distribution of average track popularity across different genres.
+
+### Feature Correlation:
+
+Statistical analysis and charts displaying correlations between track_popularity and audio features like danceability, energy, loudness, and valence.
+
+Histograms showing the distribution of song lengths with optimal binning.
+
+### Artist Insights:
+
+A scatter plot visualization of Average Tempo vs. Average Popularity for artists with more than 5 tracks in the dataset.
+
+This visualization uses color to distinguish genres and pre-attentive attributes (marks) to highlight specific artists of interest.
+
+---
+
