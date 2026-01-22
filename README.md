@@ -6,9 +6,13 @@ The goal of this notebook is to uncover insights into the evolution of music on 
 
 ## Tools Used
 Python
+
 Pandas 
+
 NumPy 
+
 Matplotlib & Seaborn (Static data visualization)
+
 Plotly 
 
 ## Dataset
@@ -23,4 +27,5 @@ track_popularity (0-100), duration_ms.
 ### Audio Features:
 danceability, energy, loudness, acousticness, instrumentalness, liveness, valence, tempo.
 
+---
 ## 📊 Key Analysis & Visualizations
