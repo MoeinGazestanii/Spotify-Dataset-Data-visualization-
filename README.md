@@ -58,4 +58,5 @@ A scatter plot visualization of Average Tempo vs. Average Popularity for artists
 This visualization uses color to distinguish genres and pre-attentive attributes (marks) to highlight specific artists of interest.
 
 ---
+**Author:** Moein Gazestani
 
